@@ -24,13 +24,12 @@
 <li><b>Delete them now:</b> in the game, Settings → Privacy & data → <b>Delete my data</b>. Or paste your <b>Support ID</b> here (in the game: Settings → Privacy & data, at the bottom; tap it to copy). They are deleted within 72 hours. Asking again later shows when it was done.</li>
 </ul>
 <form class="del" data-lang="en"><input name="id" aria-label="Support ID" placeholder="Support ID" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Delete</button><p class="msg" role="status"></p></form>
-<p>No internet in the game, or something went wrong? E-mail <a href="mailto:nakoneg@gmail.com?subject=Tail%20Jam%3A%20delete%20my%20data">nakoneg@gmail.com</a> with your Support ID; we delete within 30 days and write back.</p>
 <h2>3. Ads (Google AdMob)</h2>
 <p>Ad data is processed by Google under its own policies; we can't see or delete it. You can delete or reset your advertising ID in your phone's settings (Android: Settings → Google → Ads, or Settings → Privacy → Ads; iPhone: Settings → Privacy & Security → Tracking) and manage Google's ad data at <a href="https://myadcenter.google.com">myadcenter.google.com</a>.</p>
 <h2>4. Purchases</h2>
 <p>Payments are handled by Google Play or the App Store; we never see payment details. Your purchase history stays with your store account (it brings Remove Ads back on a new phone); Google or Apple can delete it at your request.</p>
 <h2>What we keep</h2>
-<p>For a deletion request: the date and a one-way fingerprint of the Support ID (it can't be turned back into the ID), for one year, so that asking again shows when it was done. An e-mail to us is kept until the request is done, then deleted within 90 days. Nothing else.</p>
+<p>For a deletion request: the date and a one-way fingerprint of the Support ID (it can't be turned back into the ID), for one year, so that asking again shows when it was done. Nothing else.</p>
 </article>
 <article class="doc" lang="tr" id="tr">
 <h1>Verilerini sil: Tail Jam</h1>
@@ -44,19 +43,18 @@
 <li><b>Hemen silmek için:</b> oyunda Ayarlar → Gizlilik ve veriler → <b>Verilerimi sil</b>. Ya da <b>Destek kimliğini</b> buraya yapıştır (oyunda: Ayarlar → Gizlilik ve veriler, en altta; dokununca kopyalanır). 72 saat içinde silinir. Sonra yeniden sorarsan ne zaman silindiğini görürsün.</li>
 </ul>
 <form class="del" data-lang="tr"><input name="id" aria-label="Destek kimliği" placeholder="Destek kimliği" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Sil</button><p class="msg" role="status"></p></form>
-<p>Oyunda internet yok ya da bir şey ters mi gitti? Destek kimliğinle <a href="mailto:nakoneg@gmail.com?subject=Tail%20Jam%3A%20delete%20my%20data">nakoneg@gmail.com</a> adresine yaz; 30 gün içinde siler, sana yazarız.</p>
 <h2>3. Reklamlar (Google AdMob)</h2>
 <p>Reklam verilerini Google kendi politikalarına göre işler; biz göremez ve silemeyiz. Reklam kimliğini telefonunun ayarlarından silebilir ya da sıfırlayabilirsin (Android: Ayarlar → Google → Reklamlar ya da Ayarlar → Gizlilik → Reklamlar; iPhone: Ayarlar → Gizlilik ve Güvenlik → İzleme). Google'ın reklam verilerini <a href="https://myadcenter.google.com">myadcenter.google.com</a> adresinden yönetebilirsin.</p>
 <h2>4. Satın almalar</h2>
 <p>Ödemeleri Google Play ya da App Store işler; ödeme bilgilerini hiç görmeyiz. Satın alma geçmişin mağaza hesabında kalır (Reklamları Kaldır'ı yeni telefonda geri getirir); istersen Google ya da Apple siler.</p>
 <h2>Bizde ne kalır</h2>
-<p>Bir silme isteği için: tarihi ve Destek kimliğinin geri döndürülemeyen bir parmak izi (kimliğe geri çevrilemez), bir yıl boyunca; böylece yeniden sorduğunda ne zaman silindiğini görürsün. Bize yazdığın e-posta, isteğin tamamlanana kadar; sonra 90 gün içinde silinir. Başka hiçbir şey.</p>
+<p>Bir silme isteği için: tarihi ve Destek kimliğinin geri döndürülemeyen bir parmak izi (kimliğe geri çevrilemez), bir yıl boyunca; böylece yeniden sorduğunda ne zaman silindiğini görürsün. Başka hiçbir şey.</p>
 </article>
 <script>
 const URL_ = "https://script.google.com/macros/s/AKfycbzb6qsS6SecFuBXLFokD01TPF18x8ZsBt5PctiDAo3h3WZogZ-1_Ie7B8Lh5a5qg7cR/exec";
 const MSG = {
-  en: { sending: 'Sending…', ok: 'Done: the statistics kept under this Support ID will be deleted within 72 hours.', again: 'Already deleted on {date}. Anything collected since is being deleted now too.', id: 'That doesn’t look like a Support ID. Copy it from the game: Settings → Privacy & data.', busy: 'Many requests right now. Try again in a minute.', error: 'Couldn’t send it. Try again later, or e-mail us.' },
-  tr: { sending: 'Gönderiliyor…', ok: 'Tamam: bu Destek kimliğiyle tutulan istatistikler 72 saat içinde silinecek.', again: 'Bu kimliğin verileri {date} tarihinde zaten silindi. Sonradan toplanan bir şey varsa o da şimdi siliniyor.', id: 'Bu bir Destek kimliğine benzemiyor. Oyundan kopyala: Ayarlar → Gizlilik ve veriler.', busy: 'Şu an çok istek var. Bir dakika sonra yeniden dene.', error: 'Gönderilemedi. Biraz sonra yeniden dene ya da bize e-posta at.' },
+  en: { sending: 'Sending…', ok: 'Done: the statistics kept under this Support ID will be deleted within 72 hours.', again: 'Already deleted on {date}. Anything collected since is being deleted now too.', id: 'That doesn’t look like a Support ID. Copy it from the game: Settings → Privacy & data.', busy: 'Many requests right now. Try again in a minute.', error: 'Couldn’t send it. Check the internet and try again in a little while.' },
+  tr: { sending: 'Gönderiliyor…', ok: 'Tamam: bu Destek kimliğiyle tutulan istatistikler 72 saat içinde silinecek.', again: 'Bu kimliğin verileri {date} tarihinde zaten silindi. Sonradan toplanan bir şey varsa o da şimdi siliniyor.', id: 'Bu bir Destek kimliğine benzemiyor. Oyundan kopyala: Ayarlar → Gizlilik ve veriler.', busy: 'Şu an çok istek var. Bir dakika sonra yeniden dene.', error: 'Gönderilemedi. İnternetini kontrol edip biraz sonra yeniden dene.' },
 };
 const given = new URLSearchParams(location.search).get('id') || '';
 for (const form of document.querySelectorAll('form.del')) {
