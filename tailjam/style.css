@@ -27,7 +27,7 @@ header.top a { color: var(--ink); text-decoration: none; font-weight: 900; font-
 .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; padding: 8px 0 28px; }
 .features div { background: var(--card); border: 3px solid var(--line); border-radius: 20px; padding: 16px 18px; }
 .features b { display: block; font-weight: 900; font-size: 18px; margin-bottom: 4px; }
-.doc { background: var(--card); border: 3px solid var(--line); border-radius: 24px; padding: 22px 22px 8px; margin: 8px 0 28px; }
+.doc { background: var(--card); border: 3px solid var(--line); border-radius: 24px; padding: 22px 22px 8px; margin: 8px 0 28px; overflow-wrap: anywhere; }
 .doc h1 { font-weight: 900; font-size: 28px; line-height: 1.2; margin: 0 0 4px; }
 .doc h2 { font-weight: 900; font-size: 20px; margin: 22px 0 6px; }
 .doc .date { color: var(--soft); margin: 0 0 12px; }
