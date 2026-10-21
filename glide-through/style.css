@@ -35,3 +35,8 @@ header.top a { color: var(--ink); text-decoration: none; font-weight: 800; font-
 footer { border-top: 1px solid var(--line); padding: 18px 0 40px; color: var(--soft); font-size: 15px; }
 footer nav { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 8px; }
 @media (min-width: 760px) { .hero { grid-template-columns: 1fr auto; } .hero .icon { display: block; width: 200px; height: 200px; border-radius: 44px; box-shadow: 0 10px 40px rgba(255,179,71,.25); } }
+form.del { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 10px 0 4px; }
+form.del input { flex: 1 1 260px; min-width: 0; font: 800 16px/1.4 ui-monospace, Consolas, monospace; padding: 10px 14px; border: 2px solid var(--line); border-radius: 14px; background: rgba(255,255,255,.08); color: var(--ink); }
+form.del button { font: 800 17px Nunito, system-ui, sans-serif; padding: 11px 22px; border: 0; border-radius: 14px; background: var(--amber); color: #2a1c05; cursor: pointer; }
+form.del button:disabled { opacity: .6; cursor: default; }
+form.del .msg { flex-basis: 100%; margin: 4px 0 0; min-height: 1.6em; color: var(--amberLight); }

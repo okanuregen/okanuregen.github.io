@@ -19,13 +19,18 @@
 <h2>1. Your progress</h2>
 <p>Levels, stars, coins, diamonds, looks and settings are stored only on your phone (and in your phone's own Google or iCloud backup). We have no copy. To delete them, uninstall the game or clear its data (Android: Settings → Apps → Glide Through → Storage → Clear data; iPhone: delete the app).</p>
 <h2>2. Usage statistics</h2>
-<p>This version of the game sends no usage statistics. If a later version offers them (Google Analytics for Firebase), they will be sent only if you turn them on in Settings, and this page will show how to delete them at once.</p>
+<p>Anonymous usage statistics (Google Analytics for Firebase), kept under a random ID, never your name; only if you allow them (Settings → Privacy & data → Usage statistics). They are deleted automatically after 2 months.</p>
+<ul>
+<li><b>Stop them:</b> in the game, Settings → Privacy & data → Usage statistics → off.</li>
+<li><b>Delete them now:</b> in the game, Settings → Privacy & data → <b>Delete my data</b>. Or paste your <b>Support ID</b> here (in the game: Settings → Privacy & data, at the bottom; tap it to copy). They are deleted within 72 hours. Asking again later shows when it was done.</li>
+</ul>
+<form class="del" data-lang="en"><input name="id" aria-label="Support ID" placeholder="Support ID" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Delete</button><p class="msg" role="status"></p></form>
 <h2>3. Ads (Google AdMob)</h2>
 <p>Ad data is processed by Google under its own policies; we can't see or delete it. You can delete or reset your advertising ID in your phone's settings (Android: Settings → Google → Ads, or Settings → Privacy → Ads; iPhone: Settings → Privacy & Security → Tracking) and manage Google's ad data at <a href="https://myadcenter.google.com">myadcenter.google.com</a>.</p>
 <h2>4. Purchases</h2>
 <p>Payments are handled by Google Play or the App Store; we never see payment details. Your purchase history stays with your store account (it brings Remove ads back on a new phone); Google or Apple can delete it at your request.</p>
 <h2>What we keep</h2>
-<p>Nothing: there is no copy of your data with us.</p>
+<p>For a deletion request: the date and a one-way fingerprint of the Support ID (it can't be turned back into the ID), for one year, so that asking again shows when it was done. Nothing else.</p>
 </article>
 <article class="doc" lang="tr" id="tr">
 <h1>Verilerini sil: Glide Through</h1>
@@ -33,14 +38,44 @@
 <h2>1. İlerlemen</h2>
 <p>Bölümler, yıldızlar, coin, elmas, görünümler ve ayarlar sadece telefonunda (ve telefonunun kendi Google ya da iCloud yedeğinde) saklanır. Bizde kopyası yok. Silmek için oyunu kaldır ya da verilerini temizle (Android: Ayarlar → Uygulamalar → Glide Through → Depolama → Verileri temizle; iPhone: uygulamayı sil).</p>
 <h2>2. Kullanım istatistikleri</h2>
-<p>Oyunun bu sürümü kullanım istatistiği göndermiyor. İleride bir sürüm gönderirse (Google Analytics for Firebase), sadece Ayarlar'dan sen açarsan gönderilecek ve bu sayfa onları hemen nasıl sileceğini gösterecek.</p>
+<p>İsimsiz kullanım istatistikleri (Google Analytics for Firebase); adınla değil, rastgele bir kimlikle tutulur; sadece izin verirsen toplanır (Ayarlar → Gizlilik ve veriler → Kullanım istatistikleri). 2 ay sonra kendiliğinden silinir.</p>
+<ul>
+<li><b>Durdurmak için:</b> oyunda Ayarlar → Gizlilik ve veriler → Kullanım istatistikleri → kapalı.</li>
+<li><b>Hemen silmek için:</b> oyunda Ayarlar → Gizlilik ve veriler → <b>Verilerimi sil</b>. Ya da <b>Destek kimliğini</b> buraya yapıştır (oyunda: Ayarlar → Gizlilik ve veriler, en altta; dokununca kopyalanır). 72 saat içinde silinir. Sonra yeniden sorarsan ne zaman silindiğini görürsün.</li>
+</ul>
+<form class="del" data-lang="tr"><input name="id" aria-label="Destek kimliği" placeholder="Destek kimliği" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Sil</button><p class="msg" role="status"></p></form>
 <h2>3. Reklamlar (Google AdMob)</h2>
 <p>Reklam verilerini Google kendi politikalarına göre işler; biz göremez ve silemeyiz. Reklam kimliğini telefonunun ayarlarından silebilir ya da sıfırlayabilirsin (Android: Ayarlar → Google → Reklamlar ya da Ayarlar → Gizlilik → Reklamlar; iPhone: Ayarlar → Gizlilik ve Güvenlik → İzleme). Google'ın reklam verilerini <a href="https://myadcenter.google.com">myadcenter.google.com</a> adresinden yönetebilirsin.</p>
 <h2>4. Satın almalar</h2>
 <p>Ödemeleri Google Play ya da App Store işler; ödeme bilgilerini hiç görmeyiz. Satın alma geçmişin mağaza hesabında kalır (Reklamları kaldır'ı yeni telefonda geri getirir); istersen Google ya da Apple siler.</p>
 <h2>Bizde ne kalır</h2>
-<p>Hiçbir şey: verilerinin bizde bir kopyası yok.</p>
+<p>Bir silme isteği için: tarihi ve Destek kimliğinin geri döndürülemeyen bir parmak izi (kimliğe geri çevrilemez), bir yıl boyunca; böylece yeniden sorduğunda ne zaman silindiğini görürsün. Başka hiçbir şey.</p>
 </article>
+<script>
+const URL_ = "https://script.google.com/macros/s/AKfycbwochX3OTJRtvTrimQOzWsh21Qh1jMoJqcftyd-IlK1DLND5o8oZ_UhmUhrDFt5WXJk/exec";
+const MSG = {
+  en: { sending: 'Sending…', ok: 'Done: the statistics kept under this Support ID will be deleted within 72 hours.', again: 'Already deleted on {date}. Anything collected since is being deleted now too.', id: 'That doesn’t look like a Support ID. Copy it from the game: Settings → Privacy & data.', busy: 'Many requests right now. Try again in a minute.', error: 'Couldn’t send it. Check the internet and try again in a little while.' },
+  tr: { sending: 'Gönderiliyor…', ok: 'Tamam: bu Destek kimliğiyle tutulan istatistikler 72 saat içinde silinecek.', again: 'Bu kimliğin verileri {date} tarihinde zaten silindi. Sonradan toplanan bir şey varsa o da şimdi siliniyor.', id: 'Bu bir Destek kimliğine benzemiyor. Oyundan kopyala: Ayarlar → Gizlilik ve veriler.', busy: 'Şu an çok istek var. Bir dakika sonra yeniden dene.', error: 'Gönderilemedi. İnternetini kontrol edip biraz sonra yeniden dene.' },
+};
+const given = new URLSearchParams(location.search).get('id') || '';
+for (const form of document.querySelectorAll('form.del')) {
+  const lang = form.dataset.lang, m = MSG[lang], input = form.querySelector('input'), button = form.querySelector('button'), out = form.querySelector('.msg');
+  input.value = given;
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const id = input.value.trim();
+    if (!/^[A-Za-z0-9_-]{16,64}$/.test(id)) { out.textContent = m.id; return; }
+    button.disabled = true;
+    out.textContent = m.sending;
+    try {
+      const r = await (await fetch(URL_, { method: 'POST', body: JSON.stringify({ id }) })).json();
+      if (r.ok) out.textContent = r.since ? m.again.replace('{date}', new Date(r.since).toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric' })) : m.ok;
+      else out.textContent = m[r.error] || m.error;
+    } catch { out.textContent = m.error; }
+    button.disabled = false;
+  });
+}
+</script>
 <footer>
 <nav><a href="/glide-through/">Glide Through</a><a href="/glide-through/privacy/">Privacy policy</a><a href="/glide-through/support.html">Support</a><a href="/glide-through/delete-data/">Delete your data</a><a href="/tailjam/">Tail Jam, our other game</a></nav>
 <div>© 2026 Nakoneg Studio (Okan Üregen). This website sets no cookies and collects no data. It is hosted on GitHub Pages, which may log visitors' IP addresses for security (<a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>). Font: Nunito, <a href="/glide-through/fonts/OFL.txt">SIL Open Font License</a>.</div>
