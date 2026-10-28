@@ -1,0 +1,1 @@
+import{_ as e,d as t}from"./index-CGBAqt2y.js";import"./analytics-Dx2oQdCv.js";import"./services-BZEhclO7.js";async function n(){}function r(r){t&&(n(),e.addListener(`appStateChange`,({isActive:e})=>{e||n()}))}export{r as startCloud};

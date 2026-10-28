@@ -1,0 +1,40 @@
+Informativa sulla privacy di Glissa
+Ultimo aggiornamento: 14 ottobre 2026
+
+Glissa è un gioco rompicapo sviluppato da Nakoneg Studio. Per giocare non serve un account e il gioco non ti chiede mai nome, e-mail o altri dati di contatto. I tuoi progressi sono salvati solo sul tuo dispositivo.
+
+## Pubblicità
+Il gioco mostra annunci di Google AdMob. Per mostrare e misurare gli annunci, AdMob può raccogliere l'identificativo pubblicitario del dispositivo, una posizione approssimativa ricavata dall'indirizzo IP e le tue interazioni con gli annunci. Nel SEE, nel Regno Unito e in Svizzera il gioco ti chiede prima il consenso; puoi cambiare la tua scelta in qualsiasi momento in Impostazioni → Privacy e dati → Privacy. In Turchia il gioco chiede prima di mostrare annunci personalizzati; altrove puoi disattivarli in qualsiasi momento in Impostazioni → Privacy e dati → Annunci personalizzati. Gli annunci non personalizzati vengono mostrati in ogni caso. Puoi anche reimpostare o limitare l'identificativo pubblicitario nelle impostazioni del telefono. Norme di Google: policies.google.com/technologies/ads
+
+## Promemoria
+Se lo consenti, il gioco programma alcuni promemoria sul telefono (per esempio quando il premio giornaliero è pronto). Vengono creati sul dispositivo; nulla viene inviato altrove. Puoi disattivarli in qualsiasi momento nelle impostazioni del telefono.
+
+## Statistiche d'uso
+Per capire quali livelli sono troppo difficili e come si gioca, il gioco può inviare statistiche d'uso tramite Google Analytics for Firebase: per esempio quale livello è stato iniziato, vinto o abbandonato, se è stato usato un potenziamento e come sono state guadagnate e spese le monete. Sono collegate a un identificativo casuale di questa installazione, non al tuo nome, alla tua e-mail o al tuo identificativo pubblicitario, e non vengono usate per la pubblicità. Nel SEE, nel Regno Unito e in Svizzera sono disattivate finché non le attivi; altrove puoi disattivarle in qualsiasi momento in Impostazioni → Privacy e dati → Statistiche d'uso. Norme di Google: policies.google.com/privacy
+
+## Acquisti
+Gli acquisti in-app sono gestiti da Google Play o dall'App Store di Apple. Riceviamo solo la conferma che un acquisto è avvenuto, mai i tuoi dati di pagamento. «Ripristina acquisti» chiede allo store quali acquisti permanenti possiede il tuo account.
+
+## Titolare del trattamento
+Il titolare dei dati personali descritti qui è lo sviluppatore, Okan Üregen (Nakoneg Studio). Contatto: nakoneg@gmail.com.
+
+## Basi giuridiche
+Per la pubblicità personalizzata e le statistiche nel SEE, nel Regno Unito e in Svizzera, e per la pubblicità personalizzata in Turchia, ci basiamo sul tuo consenso, che puoi revocare in qualsiasi momento. Per la pubblicità non personalizzata, le statistiche d'uso negli altri paesi e per far funzionare il gioco in modo sicuro, ci basiamo sul nostro legittimo interesse a offrire il gioco gratis e a migliorarlo; puoi opporti in qualsiasi momento disattivando le statistiche o gli annunci personalizzati nelle Impostazioni. Per gli acquisti ci basiamo sull'esecuzione del nostro contratto con te. Questo segue il GDPR nell'UE e nel Regno Unito e la legge turca n. 6698 sulla protezione dei dati personali (KVKK).
+
+## Trasferimenti all'estero
+Google tratta i dati di pubblicità e statistiche, anche su server fuori dalla Turchia e dal SEE. Questi trasferimenti avvengono con le garanzie richieste dalla legge sulla protezione dei dati, come le clausole contrattuali tipo.
+
+## Per quanto tempo conserviamo i dati
+I tuoi progressi restano sul tuo dispositivo finché non elimini il gioco o non li azzeri. Le statistiche in attesa di invio restano sul dispositivo al massimo 7 giorni. Google Analytics conserva le statistiche d'uso per 2 mesi. Google conserva i dati pubblicitari secondo la propria politica.
+
+## I tuoi diritti
+Puoi chiedere se vengono trattati dati che ti riguardano, accedervi, farli correggere o cancellare, opporti al loro uso e revocare il consenso. Puoi anche presentare reclamo all'autorità per la protezione dei dati del tuo paese. Il gioco non sa chi sei, quindi puoi fare quasi tutto da solo: disattivare le statistiche in Impostazioni → Privacy e dati → Statistiche d'uso, cambiare le scelte sulla pubblicità in Impostazioni → Privacy e dati → Privacy o in Impostazioni → Privacy e dati → Annunci personalizzati e reimpostare l'ID pubblicitario nelle impostazioni del telefono. Per tutto il resto, scrivici.
+
+## Bambini
+Il gioco non è rivolto a bambini di età inferiore a 13 anni e non raccogliamo consapevolmente informazioni che li riguardano.
+
+## Modifiche
+Se questa informativa cambia, la nuova versione, con una nuova data, comparirà nel gioco e nella pagina dello store.
+
+## Contatti
+Domande? Scrivi a nakoneg@gmail.com.

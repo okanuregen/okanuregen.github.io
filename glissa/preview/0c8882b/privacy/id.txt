@@ -1,0 +1,40 @@
+Kebijakan Privasi Glissa
+Terakhir diperbarui: 14 Oktober 2026
+
+Glissa adalah game puzzle yang dikembangkan oleh Nakoneg Studio. Kamu tidak perlu akun untuk bermain, dan game ini tidak pernah meminta nama, email, atau data kontakmu yang lain. Progresmu hanya disimpan di perangkatmu.
+
+## Iklan
+Game ini menampilkan iklan dari Google AdMob. Untuk menampilkan dan mengukur iklan, AdMob dapat mengumpulkan ID iklan perangkatmu, perkiraan lokasi berdasarkan alamat IP, dan cara kamu berinteraksi dengan iklan. Di EEA, Inggris, dan Swiss, game ini meminta persetujuanmu terlebih dahulu; kamu bisa mengubah pilihanmu kapan saja di Pengaturan → Privasi & data → Pilihan privasi. Di Turki, game ini meminta izin sebelum menampilkan iklan yang dipersonalisasi; di negara lain kamu bisa mematikannya kapan saja di Pengaturan → Privasi & data → Iklan yang dipersonalisasi. Iklan yang tidak dipersonalisasi tetap ditampilkan. Kamu juga bisa mengatur ulang atau membatasi ID iklan di pengaturan ponselmu. Kebijakan Google: policies.google.com/technologies/ads
+
+## Pengingat
+Jika kamu mengizinkan, game ini menjadwalkan beberapa pengingat di ponselmu (misalnya saat hadiah harian sudah siap). Pengingat dibuat di perangkat; tidak ada yang dikirim ke mana pun. Kamu bisa mematikannya kapan saja di pengaturan ponsel.
+
+## Statistik penggunaan
+Untuk mengetahui level mana yang terlalu sulit dan bagaimana game dimainkan, game ini dapat mengirim statistik penggunaan melalui Google Analytics for Firebase: misalnya level mana yang dimulai, dimenangkan, atau ditinggalkan, apakah booster dipakai, dan bagaimana koin didapat dan dibelanjakan. Data ini terhubung ke ID acak untuk instalasi ini, bukan ke nama, email, atau ID iklanmu, dan tidak dipakai untuk iklan. Di EEA, Inggris, dan Swiss, fitur ini mati kecuali kamu menyalakannya; di tempat lain kamu bisa mematikannya kapan saja di Pengaturan → Privasi & data → Statistik penggunaan. Kebijakan Google: policies.google.com/privacy
+
+## Pembelian
+Pembelian dalam aplikasi diproses oleh Google Play atau Apple App Store. Kami hanya menerima konfirmasi bahwa pembelian terjadi, tidak pernah data pembayaranmu. "Pulihkan pembelian" menanyakan ke toko pembelian permanen apa saja yang dimiliki akun tokomu.
+
+## Pengendali data
+Pengendali data pribadi yang dijelaskan di sini adalah pengembang, Okan Üregen (Nakoneg Studio). Kontak: nakoneg@gmail.com.
+
+## Dasar hukum
+Untuk iklan yang dipersonalisasi dan statistik di EEA, Inggris, dan Swiss, serta untuk iklan yang dipersonalisasi di Turki, kami mengandalkan persetujuanmu, yang bisa kamu tarik kapan saja. Untuk iklan yang tidak dipersonalisasi, statistik penggunaan di negara lain, dan agar game tetap berjalan dengan aman, kami mengandalkan kepentingan sah kami untuk menyediakan game ini secara gratis dan memperbaikinya; kamu bisa menolaknya kapan saja dengan mematikan statistik atau iklan yang dipersonalisasi di Pengaturan. Untuk pembelian, kami mengandalkan pelaksanaan perjanjian kami denganmu. Ini mengikuti UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi, GDPR di UE dan Inggris, serta Undang-Undang Pelindungan Data Pribadi Turki No. 6698 (KVKK).
+
+## Transfer ke luar negeri
+Data iklan dan statistik diproses oleh Google, termasuk di server di luar Turki dan EEA. Transfer ini dilakukan dengan perlindungan yang diwajibkan hukum pelindungan data, seperti klausul kontrak standar.
+
+## Lama penyimpanan
+Progresmu tersimpan di perangkatmu sampai kamu menghapus game atau mengatur ulang progresmu. Statistik yang menunggu dikirim tersimpan di perangkat paling lama 7 hari. Google Analytics menyimpan statistik penggunaan selama 2 bulan. Data iklan disimpan Google sesuai kebijakannya sendiri.
+
+## Hak-hakmu
+Kamu bisa menanyakan apakah data tentangmu diproses, melihatnya, meminta agar diperbaiki atau dihapus, menolak penggunaannya, dan menarik persetujuanmu. Kamu juga bisa mengadu ke otoritas pelindungan data di negaramu. Game ini tidak tahu siapa kamu, jadi sebagian besar bisa kamu lakukan sendiri: matikan statistik di Pengaturan → Privasi & data → Statistik penggunaan, ubah pilihan iklan di Pengaturan → Privasi & data → Pilihan privasi atau Pengaturan → Privasi & data → Iklan yang dipersonalisasi, dan atur ulang ID iklan di pengaturan ponselmu. Untuk hal lain, kirim email kepada kami.
+
+## Anak-anak
+Game ini tidak ditujukan untuk anak di bawah 13 tahun, dan kami tidak dengan sengaja mengumpulkan data mereka.
+
+## Perubahan
+Jika kebijakan ini berubah, versi barunya akan muncul di dalam game dan di halaman toko, dengan tanggal baru.
+
+## Kontak
+Ada pertanyaan? Kirim email ke nakoneg@gmail.com.

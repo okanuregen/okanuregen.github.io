@@ -1,0 +1,40 @@
+Glissa Gizlilik Politikası
+Son güncelleme: 14 Ekim 2026
+
+Glissa, Nakoneg Studio tarafından geliştirilen bir bulmaca oyunudur. Oynamak için hesap açman gerekmez; oyun adını, e-postanı ya da başka bir iletişim bilgini hiçbir zaman istemez. İlerlemen sadece cihazında saklanır.
+
+## Reklamlar
+Oyunda Google AdMob reklamları gösterilir. Reklamları göstermek ve ölçmek için AdMob; cihazının reklam kimliğini, IP adresinden çıkarılan yaklaşık konumu ve reklamlarla etkileşimini toplayabilir. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de oyun önce iznini ister; seçimini istediğin zaman Ayarlar → Gizlilik ve veriler → Gizlilik tercihleri'nden değiştirebilirsin. Türkiye'de oyun, kişiselleştirilmiş reklam göstermeden önce iznini ister; diğer ülkelerde bunları istediğin zaman Ayarlar → Gizlilik ve veriler → Kişiselleştirilmiş reklamlar'dan kapatabilirsin. Kişiselleştirilmemiş reklamlar her durumda gösterilir. Reklam kimliğini telefonunun ayarlarından sıfırlayabilir ya da sınırlayabilirsin. Google'ın politikası: policies.google.com/technologies/ads
+
+## Hatırlatmalar
+İzin verirsen oyun, telefonunda birkaç hatırlatma kurar (örneğin günlük ödülün hazır olduğunda). Bunlar cihazında oluşturulur; hiçbir yere bir şey gönderilmez. İstediğin zaman telefonunun ayarlarından kapatabilirsin.
+
+## Kullanım istatistikleri
+Hangi bölümlerin fazla zor olduğunu ve oyunun nasıl oynandığını görmek için oyun, Google Analytics for Firebase üzerinden kullanım istatistikleri gönderebilir: örneğin hangi bölümün başlatıldığı, kazanıldığı ya da bırakıldığı, güçlendirici kullanılıp kullanılmadığı, coin'lerin nasıl kazanılıp harcandığı. Bunlar adına, e-postana ya da reklam kimliğine değil, bu kuruluma ait rastgele bir kimliğe bağlıdır ve reklam için kullanılmaz. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de sen açmadıkça kapalıdır; diğer yerlerde istediğin zaman Ayarlar → Gizlilik ve veriler → Kullanım istatistikleri'nden kapatabilirsin. Google'ın politikası: policies.google.com/privacy
+
+## Satın almalar
+Uygulama içi satın almalar Google Play ya da Apple App Store üzerinden yapılır. Biz sadece satın almanın gerçekleştiği bilgisini alırız; ödeme bilgilerini asla görmeyiz. "Satın alımları geri yükle", mağaza hesabının hangi kalıcı satın almalara sahip olduğunu mağazaya sorar.
+
+## Veri sorumlusu
+Burada anlatılan kişisel verilerin sorumlusu (6698 sayılı KVKK'daki adıyla veri sorumlusu), Nakoneg Studio adıyla oyun geliştiren Okan Üregen'dir. İletişim: nakoneg@gmail.com.
+
+## Hukuki sebepler
+Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de kişiselleştirilmiş reklamlar ve istatistikler için, Türkiye'de ise kişiselleştirilmiş reklamlar için senin açık rızana dayanırız (KVKK m. 5/1); rızanı istediğin zaman geri alabilirsin. Kişiselleştirilmemiş reklamlar, diğer yerlerdeki kullanım istatistikleri ve oyunun çalışıp güvende kalması için, oyunu ücretsiz sunmak ve geliştirmek yönündeki meşru menfaatimize dayanırız (KVKK m. 5/2-f); istatistikleri ya da kişiselleştirilmiş reklamları Ayarlar'dan kapatarak buna istediğin zaman itiraz edebilirsin. Satın almalarda seninle yaptığımız sözleşmenin kurulması ve ifasına dayanırız (KVKK m. 5/2-c). Bu, Türkiye'de 6698 sayılı Kişisel Verilerin Korunması Kanunu'na (KVKK), Avrupa Birliği ve Birleşik Krallık'ta GDPR'a göredir.
+
+## Yurt dışına aktarım
+Reklam ve istatistik verilerini Google işler; bu, Türkiye ve Avrupa Ekonomik Alanı dışındaki sunucularda da olabilir. Bu aktarımlar, veri koruma mevzuatının istediği güvencelerle (örneğin standart sözleşmelerle) yapılır.
+
+## Saklama süresi
+İlerlemen, oyunu silene ya da ilerlemeni sıfırlayana kadar cihazında kalır. Gönderilmeyi bekleyen istatistikler cihazda en fazla 7 gün kalır. Google Analytics kullanım istatistiklerini 2 ay saklar. Reklam verilerini Google kendi politikasına göre saklar.
+
+## Hakların
+KVKK'nın 11. maddesi ve GDPR uyarınca hakkındaki verilerin işlenip işlenmediğini öğrenebilir, onları görebilir, düzeltilmesini ya da silinmesini isteyebilir, işlenmesine itiraz edebilir ve iznini geri alabilirsin. Türkiye'de Kişisel Verileri Koruma Kurulu'na, Avrupa Birliği'nde kendi ülkendeki veri koruma kurumuna şikâyette de bulunabilirsin. Oyun kim olduğunu bilmediği için bunların çoğunu kendin yapabilirsin: istatistikleri Ayarlar → Gizlilik ve veriler → Kullanım istatistikleri'nden kapatabilir, reklam tercihlerini Ayarlar → Gizlilik ve veriler → Gizlilik tercihleri'nden ya da Ayarlar → Gizlilik ve veriler → Kişiselleştirilmiş reklamlar'dan değiştirebilir, reklam kimliğini telefonunun ayarlarından sıfırlayabilirsin. Diğer her şey için bize yaz.
+
+## Çocuklar
+Oyun 13 yaşından küçük çocuklara yönelik değildir ve onlardan bilerek bilgi toplamayız.
+
+## Değişiklikler
+Bu politika değişirse yeni hali, yeni tarihiyle oyunda ve mağaza sayfasında yer alır.
+
+## İletişim
+Sorun mu var? nakoneg@gmail.com adresine yazabilirsin.

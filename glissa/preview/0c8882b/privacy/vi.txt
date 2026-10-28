@@ -1,0 +1,40 @@
+Chính sách quyền riêng tư của Glissa
+Cập nhật lần cuối: 14 tháng 10 năm 2026
+
+Glissa là trò chơi giải đố do Nakoneg Studio phát triển. Bạn không cần tài khoản để chơi, và trò chơi không bao giờ hỏi tên, email hay thông tin liên lạc khác của bạn. Tiến trình của bạn chỉ được lưu trên thiết bị của bạn.
+
+## Quảng cáo
+Trò chơi hiển thị quảng cáo của Google AdMob. Để hiển thị và đo lường quảng cáo, AdMob có thể thu thập mã nhận dạng quảng cáo của thiết bị, vị trí gần đúng dựa trên địa chỉ IP và cách bạn tương tác với quảng cáo. Tại EEA, Vương quốc Anh và Thụy Sĩ, trò chơi sẽ hỏi ý kiến đồng ý của bạn trước; bạn có thể đổi lựa chọn bất cứ lúc nào trong Cài đặt → Quyền riêng tư & dữ liệu → Tùy chọn quyền riêng tư. Tại Thổ Nhĩ Kỳ, trò chơi sẽ hỏi trước khi hiển thị quảng cáo được cá nhân hóa; ở các nước khác, bạn có thể tắt chúng bất cứ lúc nào trong Cài đặt → Quyền riêng tư & dữ liệu → Quảng cáo cá nhân hóa. Quảng cáo không cá nhân hóa vẫn được hiển thị. Bạn cũng có thể đặt lại hoặc giới hạn mã nhận dạng quảng cáo trong cài đặt điện thoại. Chính sách của Google: policies.google.com/technologies/ads
+
+## Lời nhắc
+Nếu bạn cho phép, trò chơi sẽ đặt vài lời nhắc trên điện thoại (ví dụ khi quà hằng ngày đã sẵn sàng). Lời nhắc được tạo trên thiết bị, không gửi đi đâu cả. Bạn có thể tắt chúng bất cứ lúc nào trong cài đặt điện thoại.
+
+## Thống kê sử dụng
+Để biết màn nào quá khó và trò chơi được chơi như thế nào, trò chơi có thể gửi thống kê sử dụng qua Google Analytics for Firebase: ví dụ màn nào được bắt đầu, thắng hay bỏ dở, có dùng vật phẩm không, xu được nhận và tiêu như thế nào. Dữ liệu này gắn với một mã ngẫu nhiên của lượt cài đặt này, không gắn với tên, email hay mã nhận dạng quảng cáo của bạn, và không dùng cho quảng cáo. Tại EEA, Vương quốc Anh và Thụy Sĩ, tính năng này tắt trừ khi bạn bật lên; ở nơi khác bạn có thể tắt bất cứ lúc nào trong Cài đặt → Quyền riêng tư & dữ liệu → Thống kê sử dụng. Chính sách của Google: policies.google.com/privacy
+
+## Giao dịch mua
+Giao dịch mua trong ứng dụng do Google Play hoặc Apple App Store xử lý. Chúng tôi chỉ nhận xác nhận rằng giao dịch đã diễn ra, không bao giờ nhận thông tin thanh toán của bạn. "Khôi phục giao dịch" hỏi cửa hàng xem tài khoản của bạn sở hữu những giao dịch mua lâu dài nào.
+
+## Bên kiểm soát dữ liệu
+Bên chịu trách nhiệm về dữ liệu cá nhân được mô tả ở đây là nhà phát triển Okan Üregen (Nakoneg Studio). Liên hệ: nakoneg@gmail.com.
+
+## Cơ sở pháp lý
+Với quảng cáo được cá nhân hóa và thống kê ở EEA, Vương quốc Anh và Thụy Sĩ, cũng như quảng cáo được cá nhân hóa ở Thổ Nhĩ Kỳ, chúng tôi dựa trên sự đồng ý của bạn, và bạn có thể rút lại bất cứ lúc nào. Với quảng cáo không cá nhân hóa, thống kê sử dụng ở các nước khác và để trò chơi hoạt động an toàn, chúng tôi dựa trên lợi ích chính đáng là cung cấp trò chơi miễn phí và cải thiện nó; bạn có thể phản đối bất cứ lúc nào bằng cách tắt thống kê hoặc quảng cáo cá nhân hóa trong Cài đặt. Với giao dịch mua, chúng tôi dựa trên việc thực hiện thỏa thuận giữa chúng tôi và bạn. Điều này tuân theo GDPR ở EU và Vương quốc Anh, các quy định về bảo vệ dữ liệu cá nhân của Việt Nam và Luật Bảo vệ dữ liệu cá nhân số 6698 của Thổ Nhĩ Kỳ (KVKK).
+
+## Chuyển dữ liệu ra nước ngoài
+Dữ liệu quảng cáo và thống kê do Google xử lý, kể cả trên các máy chủ ngoài Thổ Nhĩ Kỳ và EEA. Việc chuyển dữ liệu này được thực hiện với các biện pháp bảo vệ mà luật bảo vệ dữ liệu yêu cầu, chẳng hạn như các điều khoản hợp đồng mẫu.
+
+## Thời gian lưu trữ
+Tiến trình của bạn được lưu trên thiết bị cho đến khi bạn xóa trò chơi hoặc đặt lại tiến trình. Thống kê đang chờ gửi được lưu trên thiết bị tối đa 7 ngày. Google Analytics lưu thống kê sử dụng trong 2 tháng. Google lưu dữ liệu quảng cáo theo chính sách riêng của mình.
+
+## Quyền của bạn
+Bạn có thể hỏi liệu dữ liệu về bạn có được xử lý hay không, xem dữ liệu đó, yêu cầu sửa hoặc xóa, phản đối việc sử dụng và rút lại sự đồng ý. Bạn cũng có thể khiếu nại với cơ quan bảo vệ dữ liệu ở nước bạn. Trò chơi không biết bạn là ai, nên bạn có thể tự làm hầu hết những việc này: tắt thống kê trong Cài đặt → Quyền riêng tư & dữ liệu → Thống kê sử dụng, đổi lựa chọn quảng cáo trong Cài đặt → Quyền riêng tư & dữ liệu → Tùy chọn quyền riêng tư hoặc Cài đặt → Quyền riêng tư & dữ liệu → Quảng cáo cá nhân hóa và đặt lại mã quảng cáo trong cài đặt điện thoại. Với các yêu cầu khác, hãy viết thư cho chúng tôi.
+
+## Trẻ em
+Trò chơi không hướng đến trẻ em dưới 13 tuổi, và chúng tôi không cố ý thu thập thông tin của trẻ.
+
+## Thay đổi
+Nếu chính sách này thay đổi, phiên bản mới sẽ xuất hiện trong trò chơi và trên trang cửa hàng, kèm ngày mới.
+
+## Liên hệ
+Có câu hỏi? Hãy gửi thư đến nakoneg@gmail.com.
