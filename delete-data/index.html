@@ -21,7 +21,7 @@
 <p>Anonymous usage statistics, kept under a random ID, never your name. They are deleted automatically after 2 months.</p>
 <ul>
 <li><b>Stop them:</b> in the game, Settings → Privacy & data → Usage statistics → off.</li>
-<li><b>Delete them now:</b> in the game, Settings → Privacy & data → <b>Delete my data</b>. Or paste your <b>Support ID</b> here (in the game: Settings → Privacy & data, at the bottom; tap it to copy). They are deleted within 72 hours. Asking again later shows when it was done.</li>
+<li><b>Delete them now:</b> in the game, Settings → Privacy & data → <b>Delete my data</b>. Or paste your <b>Support ID</b> here (in the game: Settings → Privacy & data, at the bottom; tap it to copy). They are deleted within 72 hours. Asking again later shows the date of your first request.</li>
 </ul>
 <form class="del" data-lang="en"><input name="id" aria-label="Support ID" placeholder="Support ID" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Delete</button><p class="msg" role="status"></p></form>
 <h2>3. Ads (Google AdMob)</h2>
@@ -29,7 +29,7 @@
 <h2>4. Purchases</h2>
 <p>Payments are handled by Google Play or the App Store; we never see payment details. Your purchase history stays with your store account (it brings Remove Ads back on a new phone); Google or Apple can delete it at your request.</p>
 <h2>What we keep</h2>
-<p>For a deletion request: the date and a one-way fingerprint of the Support ID (it can't be turned back into the ID), for one year, so that asking again shows when it was done. Nothing else.</p>
+<p>For a deletion request: the date and a one-way fingerprint of the Support ID (it can't be turned back into the ID), for one year, so that asking again shows when it was first asked for. Nothing else.</p>
 </article>
 <article class="doc" lang="tr" id="tr">
 <h1>Verilerini sil: Tail Jam</h1>
@@ -40,7 +40,7 @@
 <p>İsimsiz kullanım istatistikleri; adınla değil, rastgele bir kimlikle tutulur. 2 ay sonra kendiliğinden silinir.</p>
 <ul>
 <li><b>Durdurmak için:</b> oyunda Ayarlar → Gizlilik ve veriler → Kullanım istatistikleri → kapalı.</li>
-<li><b>Hemen silmek için:</b> oyunda Ayarlar → Gizlilik ve veriler → <b>Verilerimi sil</b>. Ya da <b>Destek kimliğini</b> buraya yapıştır (oyunda: Ayarlar → Gizlilik ve veriler, en altta; dokununca kopyalanır). 72 saat içinde silinir. Sonra yeniden sorarsan ne zaman silindiğini görürsün.</li>
+<li><b>Hemen silmek için:</b> oyunda Ayarlar → Gizlilik ve veriler → <b>Verilerimi sil</b>. Ya da <b>Destek kimliğini</b> buraya yapıştır (oyunda: Ayarlar → Gizlilik ve veriler, en altta; dokununca kopyalanır). 72 saat içinde silinir. Sonra yeniden gönderirsen ilk talebinin tarihini görürsün.</li>
 </ul>
 <form class="del" data-lang="tr"><input name="id" aria-label="Destek kimliği" placeholder="Destek kimliği" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="submit">Sil</button><p class="msg" role="status"></p></form>
 <h2>3. Reklamlar (Google AdMob)</h2>
@@ -48,13 +48,13 @@
 <h2>4. Satın almalar</h2>
 <p>Ödemeleri Google Play ya da App Store işler; ödeme bilgilerini hiç görmeyiz. Satın alma geçmişin mağaza hesabında kalır (Reklamları Kaldır'ı yeni telefonda geri getirir); istersen Google ya da Apple siler.</p>
 <h2>Bizde ne kalır</h2>
-<p>Bir silme isteği için: tarihi ve Destek kimliğinin geri döndürülemeyen bir parmak izi (kimliğe geri çevrilemez), bir yıl boyunca; böylece yeniden sorduğunda ne zaman silindiğini görürsün. Başka hiçbir şey.</p>
+<p>Bir silme isteği için: tarihi ve Destek kimliğinin geri döndürülemeyen bir parmak izi (kimliğe geri çevrilemez), bir yıl boyunca; böylece yeniden gönderdiğinde ilk talebinin ne zaman alındığını görürsün. Başka hiçbir şey.</p>
 </article>
 <script>
 const URL_ = "https://script.google.com/macros/s/AKfycbzb6qsS6SecFuBXLFokD01TPF18x8ZsBt5PctiDAo3h3WZogZ-1_Ie7B8Lh5a5qg7cR/exec";
 const MSG = {
-  en: { sending: 'Sending…', ok: 'Done: the statistics kept under this Support ID will be deleted within 72 hours.', again: 'Already deleted on {date}. Anything collected since is being deleted now too.', id: 'That doesn’t look like a Support ID. Copy it from the game: Settings → Privacy & data.', busy: 'Many requests right now. Try again in a minute.', error: 'Couldn’t send it. Check the internet and try again in a little while.' },
-  tr: { sending: 'Gönderiliyor…', ok: 'Tamam: bu Destek kimliğiyle tutulan istatistikler 72 saat içinde silinecek.', again: 'Bu kimliğin verileri {date} tarihinde zaten silindi. Sonradan toplanan bir şey varsa o da şimdi siliniyor.', id: 'Bu bir Destek kimliğine benzemiyor. Oyundan kopyala: Ayarlar → Gizlilik ve veriler.', busy: 'Şu an çok istek var. Bir dakika sonra yeniden dene.', error: 'Gönderilemedi. İnternetini kontrol edip biraz sonra yeniden dene.' },
+  en: { sending: 'Sending…', ok: 'Done: the statistics kept under this Support ID will be deleted within 72 hours.', again: 'A deletion was already asked for under this Support ID on {date}. Asked again now, so anything collected since will be deleted too.', id: 'That doesn’t look like a Support ID. Copy it from the game: Settings → Privacy & data.', busy: 'Many requests right now. Try again in a minute.', error: 'Couldn’t send it. Check the internet and try again in a little while.' },
+  tr: { sending: 'Gönderiliyor…', ok: 'Tamam: bu Destek kimliğiyle tutulan istatistikler 72 saat içinde silinecek.', again: 'Bu kimlik için silme talebi {date} tarihinde alınmıştı. Yeniden gönderildi: sonradan toplanan bir şey varsa o da silinecek.', id: 'Bu bir Destek kimliğine benzemiyor. Oyundan kopyala: Ayarlar → Gizlilik ve veriler.', busy: 'Şu an çok istek var. Bir dakika sonra yeniden dene.', error: 'Gönderilemedi. İnternetini kontrol edip biraz sonra yeniden dene.' },
 };
 const given = new URLSearchParams(location.search).get('id') || '';
 for (const form of document.querySelectorAll('form.del')) {
@@ -77,7 +77,7 @@ for (const form of document.querySelectorAll('form.del')) {
 </script>
 <footer>
 <nav><a href="/">Tail Jam</a><a href="/privacy/">Privacy policy</a><a href="/support.html">Support</a><a href="/delete-data/">Delete your data</a></nav>
-<div>© 2026 Nakoneg Studio (Okan Üregen). This website sets no cookies and collects no data. It is hosted on GitHub Pages, which may log visitors' IP addresses for security (<a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>). Font: Nunito, <a href="/fonts/OFL.txt">SIL Open Font License</a>.</div>
+<div>© 2026 Nakoneg Studio (Okan Üregen). This website sets no cookies and collects no data, except a deletion request you send on <a href="/delete-data/">Delete your data</a>. It is hosted on GitHub Pages, which may log visitors' IP addresses for security (<a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>). Font: Nunito, <a href="/fonts/OFL.txt">SIL Open Font License</a>.</div>
 </footer>
 </div>
 </body>
